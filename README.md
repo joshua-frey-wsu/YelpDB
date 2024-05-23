@@ -10,7 +10,7 @@ For my database course at my University, I developed a target application which 
   - the overpriced, popular, and successful businesses,
   - etc.
 
-The dataset was provided from a "Yelp Dataset Challenge" in 2013, which is available in JSON format [here](https://www.yelp.com/dataset). In addition, you will use a [US Census](https://www.census.gov/) zipcode dataset which provides the population and average income for each US zipcode area in the US. **The JSON files are provided in the Yelp-CptS451 folder**. 
+The dataset was provided from a "Yelp Dataset Challenge" in 2013, which is available in JSON format [here](https://www.yelp.com/dataset). In addition, you will use a [US Census](https://www.census.gov/) zipcode dataset which provides the population and average income for each US zipcode area in the US. **The JSON files are provided in the Yelp-CptS451 folder and the zipcode dataset to insert is provided in the zipData.sql file**. 
 
 The instructions and the project description is provided in this repo if you would like to know more in depth details about the project.
 
